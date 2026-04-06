@@ -1,0 +1,66 @@
+{
+  "seed": 420260406,
+  "total": 10000,
+  "train": 8000,
+  "validation": 1000,
+  "test": 1000,
+  "ratio": "80/10/10",
+  "per_source": [
+    {
+      "source": "dataset-1.json",
+      "total": 1000,
+      "train": 800,
+      "validation": 100,
+      "test": 100
+    },
+    {
+      "source": "dataset-2.json",
+      "total": 1000,
+      "train": 800,
+      "validation": 100,
+      "test": 100
+    },
+    {
+      "source": "dataset-3.json",
+      "total": 1000,
+      "train": 800,
+      "validation": 100,
+      "test": 100
+    },
+    {
+      "source": "dataset-4.json",
+      "total": 1000,
+      "train": 800,
+      "validation": 100,
+      "test": 100
+    },
+    {
+      "source": "dataset-5.json",
+      "total": 1000,
+      "train": 800,
+      "validation": 100,
+      "test": 100
+    },
+    {
+      "source": "dataset-6.json",
+      "total": 1500,
+      "train": 1200,
+      "validation": 150,
+      "test": 150
+    },
+    {
+      "source": "dataset-7.json",
+      "total": 2000,
+      "train": 1600,
+      "validation": 200,
+      "test": 200
+    },
+    {
+      "source": "dataset-8.json",
+      "total": 1500,
+      "train": 1200,
+      "validation": 150,
+      "test": 150
+    }
+  ]
+}
